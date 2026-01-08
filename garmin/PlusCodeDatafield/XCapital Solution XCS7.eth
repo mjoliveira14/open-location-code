@@ -1,1 +1,15 @@
-+XCS7.eth-CR-AJ-18N-01
+# Consideraciones Legales y de Propiedad
+
+## 1. Titularidad del Activo Físico
+La publicación de este código y su representación digital no altera la titularidad legal de la propiedad física. La tierra identificada en este repositorio permanece bajo el dominio legal de su propietario registrado ante el Registro Nacional de Costa Rica.
+
+## 2. Propósito de la Identidad Digital
+El código `762Q2QFH+82` funciona como una "Cédula de Identidad Digital" para la ubicación geodésica. Su uso en este repositorio tiene fines de:
+* Certificación de ubicación exacta (fijación geodésica).
+* Vinculación técnica para Smart Contracts bajo el protocolo XCS7.
+* Protección de la identidad del activo mediante criptografía geográfica.
+
+## 3. Estándar Abierto
+Este proyecto utiliza el estándar **Open Location Code (OLC)** desarrollado por Google. El uso de dicho estándar es libre y no otorga a Google ningún derecho sobre la propiedad física o digital aquí descrita.
+
++XCS7.eth-CR-AJ-18N-01-C.14
